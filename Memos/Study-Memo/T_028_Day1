@@ -1,0 +1,16 @@
+# Summary
+1. 交易&alpha模型&一个有趣的游戏
+2. 比市场多想一步（市场想两步）
+3. markdown的使用
+	1. 标题
+	2. 表格
+| info | place | time | credit |
+|-------|----------|--------|---------|
+| a | b | c | d |
+| alpha | beta | gama | delta |
+
+4. latex公式
+$$
+f^*=(b\times p-q)/b
+$$
+5. git使用，使用git上传作业
